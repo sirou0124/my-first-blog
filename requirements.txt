@@ -16,7 +16,7 @@ blaze==0.11.3
 bleach==2.0.0
 bokeh==0.12.10
 boto==2.48.0
-bottle==0.12.13
+bottle==0.12.20
 Bottleneck==1.2.1
 certifi==2018.10.15
 cffi==1.10.0
